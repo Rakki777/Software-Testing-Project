@@ -1,8 +1,8 @@
-package Sep03;
+package Sep03_Switch;
 
 import java.util.Scanner;
 
-public class  Lab001 {
+public class Lab001TraficLights {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter number from 1 to 3");
